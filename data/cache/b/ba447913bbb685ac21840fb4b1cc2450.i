@@ -1,0 +1,33 @@
+a:64:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:33:"PAGO DE PLANILLA INTERNET BANKING";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1;}i:4;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:103:"Para poder realizar los siguientes pasos el encargado deberá proporcionarles un Usuario y Contraseña ";}i:2;i:50;}i:5;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:153;}i:6;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:153;}i:7;a:3:{i:0;s:11:"strong_open";i:1;a:0:{}i:2;i:155;}i:8;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:31:"PASOS PARA EL PAGO DE PLANILLA:";}i:2;i:157;}i:9;a:3:{i:0;s:12:"strong_close";i:1;a:0:{}i:2;i:188;}i:10;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:60:"
+A. CREAR EXCEL
+1. Crear un archivo de Excel con 3 columnas.";}i:2;i:190;}i:11;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:250;}i:12;a:3:{i:0;s:10:"listu_open";i:1;a:0:{}i:2;i:250;}i:13;a:3:{i:0;s:13:"listitem_open";i:1;a:1:{i:0;i:1;}i:2;i:250;}i:14;a:3:{i:0;s:16:"listcontent_open";i:1;a:0:{}i:2;i:250;}i:15;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:35:"  Columna 1 cuentas con 14 dígitos";}i:2;i:254;}i:16;a:3:{i:0;s:17:"listcontent_close";i:1;a:0:{}i:2;i:289;}i:17;a:3:{i:0;s:14:"listitem_close";i:1;a:0:{}i:2;i:289;}i:18;a:3:{i:0;s:13:"listitem_open";i:1;a:1:{i:0;i:1;}i:2;i:289;}i:19;a:3:{i:0;s:16:"listcontent_open";i:1;a:0:{}i:2;i:289;}i:20;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:27:"  Columna 2 motivo del pago";}i:2;i:293;}i:21;a:3:{i:0;s:17:"listcontent_close";i:1;a:0:{}i:2;i:320;}i:22;a:3:{i:0;s:14:"listitem_close";i:1;a:0:{}i:2;i:320;}i:23;a:3:{i:0;s:13:"listitem_open";i:1;a:1:{i:0;i:1;}i:2;i:320;}i:24;a:3:{i:0;s:16:"listcontent_open";i:1;a:0:{}i:2;i:320;}i:25;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:53:"  Columna 3 monto a pagar a cada empleado o proveedor";}i:2;i:324;}i:26;a:3:{i:0;s:17:"listcontent_close";i:1;a:0:{}i:2;i:377;}i:27;a:3:{i:0;s:14:"listitem_close";i:1;a:0:{}i:2;i:377;}i:28;a:3:{i:0;s:11:"listu_close";i:1;a:0:{}i:2;i:377;}i:29;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:377;}i:30;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:49:"2. Crear un documento de texto de extensión .txt";}i:2;i:378;}i:31;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:427;}i:32;a:3:{i:0;s:10:"listu_open";i:1;a:0:{}i:2;i:427;}i:33;a:3:{i:0;s:13:"listitem_open";i:1;a:1:{i:0;i:1;}i:2;i:427;}i:34;a:3:{i:0;s:16:"listcontent_open";i:1;a:0:{}i:2;i:427;}i:35;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:23:" Clic derecho del Mouse";}i:2;i:431;}i:36;a:3:{i:0;s:17:"listcontent_close";i:1;a:0:{}i:2;i:454;}i:37;a:3:{i:0;s:14:"listitem_close";i:1;a:0:{}i:2;i:454;}i:38;a:3:{i:0;s:13:"listitem_open";i:1;a:1:{i:0;i:1;}i:2;i:454;}i:39;a:3:{i:0;s:16:"listcontent_open";i:1;a:0:{}i:2;i:454;}i:40;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:37:" Seleccionar Nuevo\Documento de texto";}i:2;i:458;}i:41;a:3:{i:0;s:17:"listcontent_close";i:1;a:0:{}i:2;i:495;}i:42;a:3:{i:0;s:14:"listitem_close";i:1;a:0:{}i:2;i:495;}i:43;a:3:{i:0;s:11:"listu_close";i:1;a:0:{}i:2;i:495;}i:44;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:495;}i:45;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:636:"3. Marcar las celdas con la información contenida del archivo de Excel
+4. Copiar y pegar las celdas marcadas del paso anterior en el archivo .txt creado.
+5. Ir a la última línea de las cuentas al final y presionar la tecla del o Supr
+6. Guardar archivo txt.
+PASO 1: CREAR GRUPO DE CUENTAS
+DETALLE DE LA OPERACION: en este campo se crea el concepto de nuestra planilla ej.: pago de segunda quincena Junio 2011
+RUTA: PESTAÑA REALIZAR/TRANSFERENCIAS/TRANSACCIONES A GRUPO DE CUENTAS
+*CLICK EN AGREGAR CRUPO
+* COLOCAR EL CONCEPTO DE PLANILLA EN EL ESPACIO DESCRIPCIÓN
+*CLICK EN AGREGAR (EL CONCEPTO APARECERA INCLUIDO GRUPO DE CUENTAS)";}i:2;i:496;}i:46;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1132;}i:47;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1132;}i:48;a:3:{i:0;s:11:"strong_open";i:1;a:0:{}i:2;i:1134;}i:49;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:34:"PASO 2: CREAR CUENTAS DE EMPLEADOS";}i:2;i:1136;}i:50;a:3:{i:0;s:12:"strong_close";i:1;a:0:{}i:2;i:1170;}i:51;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:693:"
+DETALLE DE LA OPERACIÓN: el propósito de esta función es realizar la verificación de las cuentas que están incluidas en el txt para el pago de planilla, en este paso se podrá detectar si alguna cuenta a acreditar posee restricción o algún tipo de problema.
+NOTA: en el caso de no poder ejecutar la transacción porque alguna de las cuentas no posee la verificación; el cliente deberá excluirla del archivo txt, o solicitarle al abonado el número de cuenta correcto.
+RUTA: PESTAÑA REALIZAR/NOMINAS /CUENTAS DE EMPLEADOS
+*SELECCIONAR EL CONCEPTO CREADO PARA LA PLANILLA EN EL ESPACIO NOMINA
+*CLICK EN SIGUIENTE
+*CLICK EN EXAMINAR Y CARGAR EL ACHIVO CREADO DE TXT
+*CLICK EN FINALIZAR";}i:2;i:1172;}i:52;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1865;}i:53;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1865;}i:54;a:3:{i:0;s:11:"strong_open";i:1;a:0:{}i:2;i:1867;}i:55;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:35:" PASO 3: APLICACIÓN DE LA PLANILLA";}i:2;i:1869;}i:56;a:3:{i:0;s:12:"strong_close";i:1;a:0:{}i:2;i:1904;}i:57;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:355:"
+DETALLE DE LA OPERACIÓN: ejecutar el pago de la planilla
+RUTA: PESTAÑA REALIZAR /TRANSFERENCIAS/TRANSACCIONES A GRUPO DE CUENTAS
+*SELECCIÓN TIPO DE TRANSACCION (PLANILLA)
+*CUENTA A DEBITAR
+*GRUPO DE CUENTAS (EL CONCEPTO CREADO PARA LA PLANILLA)
+*CLICK EN EXAMINAR Y CARGAR EL ACHIVO CREADO DE TXT
+*CLICK EN SIGUIENTE
+*COLOCAR CLAVE
+*CLICK EN FINALIZAR";}i:2;i:1906;}i:58;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2261;}i:59;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2261;}i:60;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:738:"NOTA:
+Si la planilla requiere de una o varias aprobaciones más, el usuario pendiente de aprobar deberá ingresar a internet banking posterior a esto seguir la ruta:
+RUTA: REALIZAR/ TRANSFERENCIAS/TRANSACCIONES PENDIENTES
+EN ESTA OPCIÓN EL SEGUNDO VERIFICADOR DEBERÁ SELECCIONAR LA PLANILLA O TRANSACCIÓN PENDIENTE DE APROBACIÓN, DANDO DOBLE CLIC EN EL BOTÓN “OPCIONES”
+AL DAR CLIC EN “OPCIONES” SE DESPLEGARA LA INFORMACIÓN DE LA PLANILLA Y SE DEBERÁ SELECCIONAR “APROBAR TRANSACCIÓN” O LA FUNCIÓN DESEADA Y DAR CLIC EN OK PARA APLICAR LA PLANILLA.
+SE DESPLEGARA NUEVAMENTE LA INFORMACIÓN DEL PAGO, LO CUAL DEBERÁ SER VALIDADO INGRESANDO NUEVAMENTE LA CLAVE DEL USUARIO Y DÁNDOLE CLIC EN EL BOTÓN “FINALIZAR”";}i:2;i:2263;}i:61;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3001;}i:62;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:3001;}i:63;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:3001;}}

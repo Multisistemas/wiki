@@ -1,0 +1,64 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Marvin Gallardo}} {{fields>ELABORADO_FECHA=2017.ENE.16}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRGC-05}} {{fields>TITULO=PROCEDIMIENTO PARA LA PLANIFICACIÓN DE LOS CAMBIOS}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{:sgc:logomultisistemas.png?nolink&}}^{{fields>TITULO}}^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}|CÓDIGO: {{fields>CODIGO}}|VERSIÓN: {{fields>VERSION}}|
+
+====== 1. OBJETIVO ======
+
+Definir directrices para los cambios que se pueden generar en Multisistemas, en planes, proyectos, programas, procesos, e infraestructura física o tecnológica, con el fin de evaluarlos y controlarlos.
+
+====== 2. ALCANCE ======
+
+Este procedimiento aplica para todos los procesos del Sistema de Gestión de Calidad de Multisistemas**.**
+====== 3. DEFINICIONES ======
+
+==== 3.1 Cambio: ====
+
+Se considera cambio todo aquello que modifica temporal o permanentemente a una organización, actividades, tareas, equipos, materiales, especificaciones, servicios, programas de control de procesos. Los cambios pueden ser en los procesos, actividades, procedimientos de trabajo, condición operacional, diseño, planificación, etc., que puedan afectar la seguridad de los trabajadores, el proceso o los bienes físicos.
+
+==== 3.2 Control de cambios: ====
+
+Actividades para controlar las salidas, después de la aprobación formal de su información sobre la configuración del producto o servicio**.**
+==== 3.3 Riesgo: ====
+
+Efecto de la incertidumbre.
+
+====== 4. DESARROLLO ======
+
+A continuación se detalla la descripción de las actividades del procedimiento para el control de cambios:
+
+{{  :sgc:prgc-05.jpg?nolink&  }}
+
+====== 5. DOCUMENTOS DE REFERENCIA ======
+
+  * ISO 9001:2015: 6.3 Planificación de los cambios.
+  * ISO 9000:2015: Fundamentos y definiciones del Sistema de Gestión de Calidad.
+
+====== 6. FORMULARIOS ======
+
+  * RGGC-07 Formulario para la Solicitud de Cambios
+
+====== 7. ANEXOS ======
+
+===== Anexo 1. Evaluación de los Cambios =====
+
+Para la evaluación de los cambios, se deben de evaluar para determinar:
+
+1. Evaluación No Favorable para el proceso:
+
+Se deberá realizar nuevamente el análisis del tipo de cambio. En aquellos casos que la segunda evaluación indique que el cambio no es favorable se determinará que el cambio no es factible de implementar.
+
+2. Evaluación Favorable para el proceso:
+
+Si el cambio es identificado como favorable, se debe determinar si el cambio genera riesgos a la ejecución del proceso.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR^REVISADO POR^AUTORIZADO POR|
+|{{fields>ELABORADO_POR}}|{{fields>REVISADO_POR}}|{{fields>AUTORIZADO_POR}}|
+|{{fields>ELABORADO_FECHA}}|{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

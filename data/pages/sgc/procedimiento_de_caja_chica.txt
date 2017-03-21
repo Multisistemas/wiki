@@ -1,0 +1,59 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2016.NOV.07}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.14}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRAF-06 }} {{fields>TITULO=PROCEDIMIENTO PARA CAJA CHICA}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Asegurar el correcto funcionamiento y administración de la Caja Chica de Multisistemas.
+
+====== 2.ALCANCE ======
+
+Será de aplicación obligatoria en todas las áreas de Multisistemas que soliciten, administren y liquiden fondos para el funcionamiento de Caja Chica.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Caja Chica: ====
+
+Es un fondo asignado a determinadas áreas del Multisistemas, que tiene como objetivo principal cubrir los gastos menores, no previsibles y/o urgentes y que no pueden ser provistos en tiempo y forma a través del proceso habitual de adquisiciones.
+
+==== 3.2 Arqueo de caja chica: ====
+
+Es el análisis de las transacciones del efectivo, en un momento determinado, con el objeto de comprobar si se ha contabilizado todo el efectivo recibido y si el saldo que arroja esta cuenta corresponde con lo que se encuentra físicamente en caja en dinero efectivo, cheques o vales.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimiento_de_caja_chica_ultimoooooo.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+[[https://docs.google.com/document/d/1lYry-pEeW36HLDgQrBuIJVuLzaFG8B5RZKXZYA-4_zg/edit|REGLAMENTO INTERNO DE TRABAJO ]]
+
+====== 6.FORMULARIOS ======
+
+[[https://docs.google.com/spreadsheets/d/10T3DZHn_MGPMqDy5eAY73f71qqvYnP4cZasRrJlxSfU/edit?ts=58235349#gid=1292190914|RGAF-07 Solicitud de apertura de caja chica]]
+
+[[https://drive.google.com/drive/folders/0BxKo1haZTU-jYkJHbGhKenJZRW8|RGAF-08 Vales de caja chica]]
+
+[[https://docs.google.com/spreadsheets/d/1i6d30Bmk0BgZaNxpVw57vGkHOFt4SZv3FiuXTStI8ZM/edit#gid=0|RGAF-09 Liquidación de caja chica]]
+
+====== 7.ANEXOS ======
+
+==== Anexo 1: Apertura y Transferencia de Fondos ====
+
+Luego que la Gerencia General autoriza la apertura de caja chica, el Gerente hace entrega del efectivo que son $250 que es el monto máximo acordado para la caja.
+
+==== Anexo 2: Recepción de comprobantes de gastos ====
+
+Cada vale de caja chica debe de llevar adjunto el comprobante de gasto que de preferencia debe ser crédito fiscal, la administradora de la caja debe de revisar que el total del comprobante sea igual que el total que ella entregó, y si es menor se realiza un nuevo vale con el monto del comprobante y se realiza la entrega del efectivo que sobró al administrador de la caja.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

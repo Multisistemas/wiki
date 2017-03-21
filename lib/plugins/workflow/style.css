@@ -1,0 +1,31 @@
+div.box {
+    background-color: #FBFAF9;
+    border-radius: 2px;
+    box-shadow: 0 0 0.3em #CCCCCC inset;
+    color: #333333;
+    direction: ltr;
+    font-family: Consolas,"Andale Mono WT","Andale Mono","Bitstream Vera Sans Mono","Nimbus Mono L",Monaco,"Courier New",monospace;
+    font-size: 1em;
+    text-align: left;
+}
+
+div.box {
+    border: 1px solid #CCCCCC;
+    border-radius: 2px;
+    box-shadow: 0 0 0.5em #CCCCCC inset;
+    overflow: auto;
+    padding: 0.7em 1em;
+    word-wrap: normal;
+}
+
+div.wfsearch {
+    position: fixed;
+    right: 120px;
+    top: 160px;
+    background-image: url(images/search.png);
+}
+
+div.wfsearch div.wfsearchx {
+    width: 30px;
+    height: 30px;
+}

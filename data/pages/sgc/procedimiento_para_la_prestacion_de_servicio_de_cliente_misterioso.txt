@@ -1,0 +1,48 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Marvin Gallardo}} {{fields>ELABORADO_FECHA=2017.ENE.27}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2017.FEB.06}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PROP-09}} {{fields>TITULO=PROCEDIMIENTO PARA LA PRESTACIÓN DE SERVICIO DE CLIENTE MISTERIOSO}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+^{{:sgc:logomultisistemas.png?nolink&}}^{{fields>TITULO}}^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}|CÓDIGO: {{fields>CODIGO}}|VERSIÓN: {{fields>VERSION}}|
+
+====== 1. OBJETIVO ======
+
+Establecer la metodología para conocer la imagen que una empresa está ofreciendo a sus clientes a través del comportamiento de sus empleados por parte de Multisistemas.
+
+====== 2. ALCANCE ======
+
+Este procedimiento será de aplicación desde la aprobación del servicio por parte del cliente, hasta la prestación y entrega de resultados del mismo.
+
+====== 3. DEFINICIONES ======
+
+==== 3.1 Cliente: ====
+
+Persona u organización que podría recibir o que recibe un producto o un servicio destinado a esas persona u organización o requerido por ella.
+
+==== 3.2 Cliente Misterioso (Mystery Shopper): ====
+
+Es una técnica utilizada por las empresas para evaluar y medir la calidad en la atención al cliente.
+
+====== 4. DESARROLLO ======
+
+A continuación se detalla la descripción de las actividades del procedimiento para la prestación de servicio de cliente misterioso:
+
+{{  :sgc:prop-09_cliente_misterioso.jpg?nolink&  }}
+
+====== 5. DOCUMENTOS DE REFERENCIA ======
+
+  * NTC - ISO 9001:2015, Requisitos de un Sistema de Gestión de Calidad 8.1, 8.2, 8.5, 8.6, 8.7.
+
+====== 6. FORMULARIOS ======
+
+  * RGOP-25 Programa de visitas de cliente misterioso.
+  * RGOP-37 Cuestionario de evaluación de cliente misterioso.
+  * **I**NOP-05 Informe de evaluación de cliente misterioso.
+====== 7. ANEXOS ======
+
+===== N/A =====
+
+^ELABORADO POR^REVISADO POR^AUTORIZADO POR|
+|{{fields>ELABORADO_POR}}|{{fields>REVISADO_POR}}|{{fields>AUTORIZADO_POR}}|
+|{{fields>ELABORADO_FECHA}}|{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

@@ -1,0 +1,2 @@
+  * [[sgc:listado_maestro|Listado maestro del SGC]]
+  * [[sgc:inicio?do=index|Indice del wiki]]

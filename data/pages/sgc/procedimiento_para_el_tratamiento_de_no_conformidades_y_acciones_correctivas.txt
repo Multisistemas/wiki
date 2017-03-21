@@ -1,0 +1,88 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Marvin Gallardo}} {{fields>ELABORADO_FECHA=2016.OCT.22}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.06}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRGC-03}} {{fields>TITULO=PROCEDIMIENTO PARA EL TRATAMIENTO DE NO CONFORMIDADES Y ACCIONES CORRECTIVAS}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1. OBJETIVO ======
+
+Definir la metodología para establecer la investigación, control y registro de las no conformidades del Sistema de Gestión de Calidad de Multisistemas. Asimismo, se define la sistemática para eliminar las causas de las no conformidades mediante la implantación de acciones correctivas, con el fin de prevenir que vuelvan a ocurrir.
+
+====== 2. ALCANCE ======
+
+Aplica a todas las no conformidades derivadas de las actividades llevadas a cabo por las auditorías del Sistema de Gestión de Calidad de Multisistemas. Asimismo, es aplicada a las no conformidades originadas por quejas y la liberación de las salidas o servicios.
+
+====== 3. DEFINICIONES ======
+
+==== 3.1 Acción Correctiva: ====
+
+Acción para eliminar las causas de una no conformidad detectada.
+
+==== 3.2 No conformidad: ====
+
+Incumplimiento de un requisito.
+
+==== 3.3 Sistema de Gestión de Calidad: ====
+
+Conjunto de elementos de una organización interrelacionados o que interactúan para establecer políticas, objetivos y procesos para lograr estos objetivos.
+
+====== 4. DESARROLLO ======
+
+{{  :sgc:procedimiento_para_el_tratamiento_de_no_conformidades_y_acciones.jpg  }}
+
+====== 5. DOCUMENTOS DE REFERENCIA ======
+
+  * NTC – ISO 9001:2015, 10.2 No conformidad y Acción Correctiva.
+
+====== 6. FORMULARIOS ======
+
+  * [[https://docs.google.com/spreadsheets/d/1dWzmOwFy2KWU391uo4vpKw14_4HddPtKzzdexuT7yzI/edit#gid=2134769912|RGGC-06 Determinación de Acciones Correctivas]]
+  * [[https://docs.google.com/document/d/15MlFalbS78VYISe004bdkxAFQd901lkH1EScEJmFVZQ/edit|INGC-02 Informe de No Conformidades]]
+
+====== 7. ANEXOS ======
+
+===== Anexo 1. Análisis de No Conformidad. =====
+
+Para el análisis de la causa raíz del problema, en este caso las no conformidades, se utilizara el diagrama causa-efecto, el cual, es una forma de organizar y representar las diferentes teorías propuestas sobre las causas de una no conformidad. Se conoce también como diagrama de Ishikawa o diagrama de espina de pescado.
+
+La variabilidad de las no conformidades es un efecto observado que tiene múltiples causas. Cuando ocurre algún problema con la calidad del producto, debemos investigar para identificar las causas del mismo. Para hacer un Diagrama de Causa-Efecto seguimos estos pasos:
+
+1. Se decide cual va a ser la no conformidad que se va a analizar. Posteriormente, se traza una flecha en sentido horizontal que representa el proceso y a la derecha se escribe la no conformidad.
+
+2. Se indica las variables críticas más importantes y generales que puedan dar lugar a la no conformidad, trazando flechas secundarias en diagonal hacia la principal. Por ejemplo, materiales, mano de obra o personal, medio o ambiente de trabajo, maquinaria o equipo, etc.
+
+3. Se incorpora en cada variable crítica, causas de las variables críticas que se puedan considerar causas de fluctuación. Para hacer esto, se puede realizar la técnica de 5 Porque? (Anexo 2.). De esta manera, se va ampliando el Diagrama de Causa-Efecto hasta que se contenga todas las causas posibles de dispersión.
+
+4. Finalmente se verifica que todas las variables y sus causas hayan sido incorporadas al diagrama. Las relaciones Causa-Efecto deben quedar claramente establecidas y con ello, el diagrama queda terminado.
+
+===== Anexo 2. Técnica de 5 ¿Porqué? =====
+
+Para identificar y determinar las causas de las variables críticas, en la construcción del Diagrama de causa-efecto, se utiliza la técnica de 5 Porqués?, la cual se basa en realizar preguntas para explorar las relaciones de causa-efecto que generan una no conformidad en particular.
+
+El objetivo final de los 5 Porqué es determinar las causa raíz de las variables críticas que generan una no conformidad. Esta técnica se utilizó por primera vez en Toyota durante la evolución de sus metodologías de fabricación, que luego culminaría en el Toyota Production System (TPS). Esta técnica se usa actualmente en muchos ámbitos, y también se utiliza dentro de Six Sigma.
+
+Cuando buscamos las causa raíz de las variables críticas, hay que preguntarse continuamente “¿por qué?”. Se necesita repetir este proceso continuamente hasta que la causa raíz de la variable crítica resulte aparente.
+
+Por ejemplo: la no conformidad es que nuestro cliente está insatisfecho. Utilizando los 5 porqués, se determinara la causa raíz de la variable crítica Mano de obra:
+
+¿**Por qué**  está insatisfecho nuestro cliente? Porque no le entregamos nuestros productos cuando dijimos que lo haríamos.
+
+¿**Por qué**  no pudimos cumplir con el plazo establecido para su entrega? El trabajo llevó más tiempo de lo que pensamos.
+
+¿**Por qué**  llevó tanto tiempo? Porque subestimamos la complejidad del mismo.
+
+¿**Por qué**  subestimamos su complejidad? Porque hicimos una estimación rápida del tiempo necesario para completarlo, y no listamos las etapas individuales necesarias para completar el proyecto.
+
+¿**Por qué**  no hicimos eso? Porque estábamos más pendientes de otros proyectos.
+
+Como resultado se tiene una mala estimación y especificación de tiempos, y esta sería nuestra causa raíz de la variable crítica.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

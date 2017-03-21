@@ -1,0 +1,23 @@
+a:5:{s:6:"status";i:0;s:6:"number";i:1;s:8:"comments";a:1:{s:32:"26d3f8107030299f7ae7d42fe6c97ad7";a:8:{s:4:"user";a:5:{s:2:"id";s:15:"Marvin Gallardo";s:4:"name";s:15:"Marvin Gallardo";s:4:"mail";s:30:"mgallardo@multisistemas.com.sv";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:1:{s:7:"created";i:1481816672;}s:3:"raw";s:350:"OBSERVACIONES.
+
+- DESARROLLO: Paso 7, hace referencia a RGDH-03, pero en el apartado de FORMULARIO aparece RGDH-04
+
+- FORMULARIO: Hacer referencia a INDH-01
+
+- ANEXO 1: En el primer párrafo hace referencia a varias instituciones de capacitación, pero solo se menciona INSAFORP, considerar modificar el primer párrafo o incluir otras instituciones.";s:5:"xhtml";s:388:"
+<p>
+OBSERVACIONES.
+</p>
+
+<p>
+- DESARROLLO: Paso 7, hace referencia a RGDH-03, pero en el apartado de FORMULARIO aparece RGDH-04
+</p>
+
+<p>
+- FORMULARIO: Hacer referencia a INDH-01
+</p>
+
+<p>
+- ANEXO 1: En el primer párrafo hace referencia a varias instituciones de capacitación, pero solo se menciona INSAFORP, considerar modificar el primer párrafo o incluir otras instituciones.
+</p>
+";s:6:"parent";N;s:7:"replies";a:0:{}s:4:"show";b:1;s:3:"cid";s:32:"26d3f8107030299f7ae7d42fe6c97ad7";}}s:11:"subscribers";N;s:5:"title";N;}

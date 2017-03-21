@@ -1,0 +1,52 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2016.NOV.04}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.14}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRDH-03}} {{fields>TITULO=PROCEDIMIENTO PARA DESARROLLO DE LAS PERSONAS}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Realizar capacitaciones al personal para fortalecer competencias, conocimientos y valores con el fin de mejorar sus condiciones laborales para beneficio propio y de la institución.
+
+====== 2.ALCANCE ======
+
+Inicia con la identificación de necesidades, continúa con el diseño del plan de capacitación y finaliza con la evaluación del personal.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Capacitación: ====
+
+Está considerada como un proceso educativo a corto plazo el cual utiliza un procedimiento planeado, sistemático y organizado a través del cual el personal administrativo de una empresa u organización adquirirá los conocimientos y las habilidades técnicas necesarias para acrecentar su eficacia en el logro de las metas que se haya propuesto la organización en la cual se desempeña.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimiento_de_desarrollo_de_personas_final.jpg?  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+[[:sgc:manual_de_funciones|MF-01 MANUAL DE FUNCIONES]]
+
+====== 6.FORMULARIOS ======
+
+[[https://docs.google.com/spreadsheets/d/1AezwqsZxyfMkP_cpuFNGhJ0idZ4Bu8Brk2sMX4S9BcI/edit#gid=1657177459|RGDH-04 Evaluación efectiva de la capacitación]]
+
+INDH-01 Informe anual de resultados
+
+====== 7.ANEXOS ======
+
+===== Anexo 1: Lineamientos para la Coordinación de Capacitaciones con Instituciones =====
+
+Las capacitaciones a los trabajadores se trataran de desarrollar a través de Insaforp, de acuerdo a las distintas necesidades y oportunidades de contribuir a la productividad y competitividad.
+
+  * **INSAFORP:**
+Para solicitar la impartición de las capacitaciones, se realiza de la siguiente manera: Se ingresa al sitio web de INSAFORP [[http://www.insaforp.org.sv/|http://www.insaforp.org.sv/]] Se selecciona la opción “Programas de Formación Profesional” y se selecciona Formación para trabajadores de empresas. Se selecciona la opción “Formularios para Solicitar Capacitación” Se selecciona el programa solicitado Se descarga la solicitud de capacitación y ficha para participantes. Se llena la solicitud de capacitación y se envía a Gerencia de Formación Continua de INSAFORP.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

@@ -1,0 +1,9 @@
+a:5:{s:6:"status";i:0;s:6:"number";i:1;s:8:"comments";a:1:{s:32:"8dee8e9dc3bfcafcb15024910f6bdbfc";a:8:{s:4:"user";a:5:{s:2:"id";s:15:"Marvin Gallardo";s:4:"name";s:15:"Marvin Gallardo";s:4:"mail";s:30:"mgallardo@multisistemas.com.sv";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:1:{s:7:"created";i:1481812598;}s:3:"raw";s:140:"Observaciones.
+-DEFINICIONES: falta agregar conceptos de cliente interno y cliente externo
+-FORMULARIO: Falta agregar el formulario RGAF-01 ";s:5:"xhtml";s:151:"
+<p>
+Observaciones.
+-DEFINICIONES: falta agregar conceptos de cliente interno y cliente externo
+-FORMULARIO: Falta agregar el formulario RGAF-01 
+</p>
+";s:6:"parent";N;s:7:"replies";a:0:{}s:4:"show";b:1;s:3:"cid";s:32:"8dee8e9dc3bfcafcb15024910f6bdbfc";}}s:11:"subscribers";N;s:5:"title";N;}

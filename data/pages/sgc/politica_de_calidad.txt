@@ -1,0 +1,21 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Herson Cruz}} {{fields>ELABORADO_FECHA=2016.OCT.15}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.OCT.15}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2016.OCT.15}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PC-01}} {{fields>TITULO=POLITICA DE CALIDAD}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^   \\ {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== Política de Calidad ======
+
+En Multisistemas e Inversiones, estamos comprometidos con la calidad y el servicio al cliente, por tanto, es Política de Calidad de Multisistemas e Inversiones:
+
+//“Brindamos soluciones integrales e innovadoras que contribuyen a optimizar la gestión y desarrollo de las organizaciones, buscando mejorar continuamente la forma en que prestamos nuestros servicios y comprometidos con satisfacer las necesidades de nuestros clientes y superar sus expectativas”.//
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

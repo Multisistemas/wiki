@@ -1,0 +1,7 @@
+base prettyprint
+author Szymon Olewniczak
+email szymon.olewniczak@rid.pl
+date 2014-09-04
+name Dokuwiki template preatty printing
+desc Add nice looking header when printing dokuwiki page
+url http://www.dokuwiki.org/plugin:prettyprint

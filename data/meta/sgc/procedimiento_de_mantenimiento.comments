@@ -1,0 +1,67 @@
+a:5:{s:6:"status";i:0;s:6:"number";i:1;s:8:"comments";a:1:{s:32:"46ac447fa9bad9e53bb4665f4abf84b4";a:8:{s:4:"user";a:5:{s:2:"id";s:15:"Marvin Gallardo";s:4:"name";s:15:"Marvin Gallardo";s:4:"mail";s:30:"mgallardo@multisistemas.com.sv";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:1:{s:7:"created";i:1481818204;}s:3:"raw";s:877:"OBSERVACIONES.
+
+- DESARROLLO: Paso 5, menciona un informe de mantenimiento RGAF-10 y en el apartado FORMULARIO aparece RGDH-10 Plan Anual de Mantenimiento, definir si es informe, registro o programa para codificar segun el tipo de documento.
+
+- FORMULARIO: Referenciar RGAF-01.
+
+-ANEXO: Redefinir estructura del anexo, por ejemplo:
+
+Anexo 1.  Calendarización de Mantenimiento
+
+1. Mantenimiento a Instalaciones (limpieza y aseo)
+
+* Martes y Jueves: Recolección de desechos (responsabilidad de cada empleado) y depositar en contenedor para el acabado final por parte de tren de aseo.
+
+* Lunes, Miercoles, Viernes: Limpieza en cada puesto de trabajo por el empleado
+
+* Martes y Viernes: Personal externo de servicios varios realiza limpieza general en la organización.
+
+2. Mantenimiento a Aire Acondicionados
+
+* Gerencia: Junio y Diciembre
+* Sala de Reuniones: Agosto y Febrero";s:5:"xhtml";s:978:"
+<p>
+OBSERVACIONES.
+</p>
+
+<p>
+- DESARROLLO: Paso 5, menciona un informe de mantenimiento RGAF-10 y en el apartado FORMULARIO aparece RGDH-10 Plan Anual de Mantenimiento, definir si es informe, registro o programa para codificar segun el tipo de documento.
+</p>
+
+<p>
+- FORMULARIO: Referenciar RGAF-01.
+</p>
+
+<p>
+-ANEXO: Redefinir estructura del anexo, por ejemplo:
+</p>
+
+<p>
+Anexo 1.  Calendarización de Mantenimiento
+</p>
+
+<p>
+1. Mantenimiento a Instalaciones (limpieza y aseo)
+</p>
+
+<p>
+* Martes y Jueves: Recolección de desechos (responsabilidad de cada empleado) y depositar en contenedor para el acabado final por parte de tren de aseo.
+</p>
+
+<p>
+* Lunes, Miercoles, Viernes: Limpieza en cada puesto de trabajo por el empleado
+</p>
+
+<p>
+* Martes y Viernes: Personal externo de servicios varios realiza limpieza general en la organización.
+</p>
+
+<p>
+2. Mantenimiento a Aire Acondicionados
+</p>
+
+<p>
+* Gerencia: Junio y Diciembre
+* Sala de Reuniones: Agosto y Febrero
+</p>
+";s:6:"parent";N;s:7:"replies";a:0:{}s:4:"show";b:1;s:3:"cid";s:32:"46ac447fa9bad9e53bb4665f4abf84b4";}}s:11:"subscribers";N;s:5:"title";N;}

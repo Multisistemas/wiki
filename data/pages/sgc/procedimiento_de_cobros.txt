@@ -1,0 +1,96 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2016.SEP.22}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.14}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRAF-05}} {{fields>TITULO=PROCEDIMIENTO PARA COBROS}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Realizar oportunamente la facturación y elaboración de cuentas de cobro de Multisistemas, llevando un control detallado de los ingresos.
+
+====== 2.ALCANCE ======
+
+Desde que se crea una cuenta por cobrar, incluyendo el seguimiento del cobro hasta el pago total de la misma.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Cobro: ====
+
+Proceso administrativo en el que Multisistemas gestiona y da seguimiento al proceso de cobrar a sus cliente por los servicios y/o productos brindados.
+
+==== 3.2 Pago on line: ====
+
+Se realizan la transferencia del dinero entre compradores y vendedores en una acción de compra-venta electrónica a través de una entidad financiera autorizada por ambos.
+
+==== 3.3 Factura de Exportación: ====
+
+Es el documento que requiere todo exportador para concretar la operación de exportación de productos o servicios.
+
+==== 3.4 Cliente Interno: ====
+
+Cliente que se encuentra dentro de las fronteras de El Salvador.
+
+==== 3.5 Cliente externo: ====
+
+Cliente que se encuentra fuera de las fronteras de El Salvador.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimientos_de_cobros_interno_ultimo_1.jpg?nolink&  }}{{  :sgc:4.1procedimientos_de_cobros_ultimo_1.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+N/A
+
+====== 6.FORMULARIOS ======
+
+[[https://docs.google.com/spreadsheets/d/1zMGBBSL9EG-AcGasiNVj69jRI9Z9YaNptS7wZOUGeUM/edit#gid=0|RGAF-01 CALENDARIO MENSUAL]]
+
+====== 7.ANEXOS ======
+
+==== Anexo 1: Elaboración de calendario de cuentas por cobrar ====
+
+  * **Clientes internos:**
+Cuando el Desarrollador de Negocios nos da la fecha de finalización del servicio al cliente lo agregamos en la calendarización para programar la fecha de la emisión de la factura o crédito fiscal.
+
+*** Clientes externos:**
+
+Elaboramos el calendario mensual y asignamos la fecha en que se le cobrará a nuestros clientes externos que ya se tiene acordada con ellos.
+
+==== Anexo 2: Preparación de documentación según cliente ====
+
+*** Clientes internos:**
+
+La documentación que preparamos para cada cliente es la siguiente:
+
+Orden de compra emitida por el cliente Cotización aprobada por el cliente Factura o crédito fiscal.
+
+*** Clientes externos:**
+
+Para poder verificar el pago de nuestro cliente Ingresamos a la plataforma del banco que le hemos asignado al cliente que deposite y seguimos los siguientes paso:
+
+  * Módulo consultas
+  * Consulta de movimientos
+  * Indicamos el rango de fechas que necesitamos ver
+  * Le damos click en aceptar
+  * Y verificamos el pago del cliente
+
+==== Anexo 3: Revisión de reportes de cuenta por cobrar ====
+
+*** Clientes internos y externos:**
+
+Para poder observar las cuentas por cobrar existentes en Multisistemas:
+
+  * Ingresamos al sistema ERP
+  * En el área de inicio buscamos Facturas a clientes pendientes de cobro
+  * Le damos click al numero que nos indica y ahí se encuentra un listado de las facturas pendientes de los clientes a cancelar.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

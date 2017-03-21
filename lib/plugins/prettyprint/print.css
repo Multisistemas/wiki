@@ -1,0 +1,18 @@
+table.print-only {
+    display: table;
+}
+
+.no-print {
+	display: none;
+}
+
+#dokuwiki__header {
+	display:none;
+}
+.approval {
+	display:none;
+}
+
+#dokuwiki__content .page {
+	min-height: 0 !important;
+}

@@ -1,0 +1,51 @@
+.dokuwiki div.page {
+	padding: 0 !important;
+}
+
+#dokuwiki__site > .site {
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+#dokuwiki__header {
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+}
+
+.approval, 
+.approved_no, 
+.review, 
+.reviewed_no {
+	margin-top: 0 !important;
+	margin-bottom: 20px !important;
+}
+
+#dw__toc {
+	margin: 0 !important;
+}
+
+#btn-tools {
+  border-radius: 50%;
+  font-size: 20px;
+  background: rgba(20, 106, 174, 0.4);
+  color: #fff;
+  padding: 7px;
+  border: 1px solid #ffffff;
+  opacity: 0.5;
+}
+
+#btn-tools:hover {
+	opacity: 1 !important;
+}
+
+#btn-tools:focus {
+	outline:0 !important;
+}
+
+#dokuwiki__pagetools {
+	right: 0 !important;
+}
+
+.codowiki_west_header h1 span {
+	display: block !important;
+}

@@ -1,0 +1,181 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Herson Cruz}} {{fields>ELABORADO_FECHA=2016.OCT.12}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.21}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PROP-03}} {{fields>TITULO=PROCEDIMIENTO PARA SERVICIOS DE TECNOLOGIA}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?direct&150  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1. OBJETIVO ======
+
+Establecer la metodología para brindar servicios de tecnología que excedan las expectativas de los clientes y cumplan con los objetivos acordados.
+
+====== 2. ALCANCE ======
+
+Este procedimiento deberá aplicarse para todos los servicios categorizados Tecnologías de Información (TI) brindados por Multisistemas a sus clientes.
+
+====== 3. DEFINICIONES ======
+
+==== 3.1 Tecnologías de Información: ====
+
+TI, o más conocida como IT por su significado en inglés (Information Technology), es la aplicación de ordenadores y equipos de telecomunicación para almacenar, recuperar, transmitir y manipular datos, con frecuencia utilizado en el contexto de los negocios o empresarial.
+
+==== 3.2 Web Hosting o Alojamiento Web: ====
+
+Servicio que permite alojar aplicaciones web en servidores de Internet, generalmente incluye cierta cantidad de almacenamiento, tráfico mensual, servicios de correo electrónico y ftp.
+
+==== 3.3 Soporte Técnico: ====
+
+Servicio que brinda soluciones a problemas informáticos para los usuarios de computadoras o servicios de Internet, por ejemplo: respaldo y restauración de información, cambio de contraseñas, creación de cuentas, etc.
+
+==== 3.4 Desarrollo de software: ====
+
+Servicio mediante el cual se brinda una solución informática a un problema de gestión de información, puede utilizar diferentes metodologías: agile, scrum, MVC, etc.
+
+==== 3.5 Registro de Dominios: ====
+
+Un dominio es la dirección de una empresa o servicio en Internet, este servicio está orientado a proveer a los clientes el registro y administración del nombre que decidan utilizar para sus necesidades y generalmente va de la mano con el servicio de alojamiento Web.
+
+==== 3.6 Manual de Calidad: ====
+
+Especificación para el sistema de gestión de calidad de una organización.
+
+==== 3.7 Especificación: ====
+
+Documento que establece requisitos.
+
+==== 3.8 Gestión de Calidad: ====
+
+Actividades coordinadas para dirigir y controlar una organización con respecto a la calidad.
+
+==== 3.9 Formulario: ====
+
+Documento utilizado para registrar los datos requeridos por el sistema de gestión de calidad.
+
+==== 3.10 Proceso: ====
+
+Conjunto de actividades mutuamente relacionadas o que interactúan, que utilizan las entradas para proporcionar un resultado previsto.
+
+==== 3.11 Procedimiento: ====
+
+Forma específica de llevar a cabo una actividad o un proceso.
+
+==== 3.12 Registro: ====
+
+Documento que presenta resultados obtenidos o proporciona evidencia de actividades realizadas.
+
+==== 3.13 Responsable de Proceso: ====
+
+Persona que ha sido nombrado(a) como encargado(a) de garantizar que el proceso asignado sea efectivo y eficiente.
+
+====== 4. DESARROLLO ======
+
+Dependiendo del tipo de servicio del que se trate, el desarrollo de este procedimiento puede tomar tres caminos:
+
+  - Alojamiento Web o Web Hosting.
+  - Registro o renovación de dominios.
+  - Soporte y desarrollo de software.
+
+{{  :sgc:4.1tecnologias.jpg?nolink&  }}{{  :sgc:4.2_tecnologias.jpg?nolink&  }}{{  :sgc:4.3_tecnologias.jpg?nolink&  }}
+
+====== 5. DOCUMENTOS DE REFERENCIA ======
+
+N/A
+
+====== 6. FORMULARIOS ======
+
+  * [[https://docs.google.com/document/d/1Ix5Ly7JBQcOxbQ6sESLMQEp3f5cOXDADmqA37xNn8co|RGOP-01 Renovación de nombres de subdominio activos bajo .sv]]
+  * [[https://docs.google.com/document/d/116KMXu5Kx565Xi5A-IvtnQVEyZFlkghS4UaOdQIie5M|RGOP-02 Solicitud de registro de nombre de subdominio en internet]]
+  * [[https://docs.google.com/document/d/1z-LwjK0fkjwqCNsyXAreNpAKhyXu6pGz5RZtBijPq_g|RGOP-03 Especificación de requerimientos de software]]
+  * [[https://docs.google.com/a/multisistemas.com.sv/forms/d/1-NX4eRcurVapv6u6qPgH-_RYBDbweiQNZda5ckiLNTs|RGOP-04 Formulario de servicios de tecnología]]
+
+====== 7. ANEXOS ======
+
+===== Anexo 1. Lineamientos para creación de cuentas de alojamiento web =====
+
+**Web hosting, paso 5:**  Multisistemas cuenta con servicios de revendedor con múltiples proveedores, uno de los servicios principales lo provee la empresa Hostgator (hostgator.com), el programador junior debe conocer los acceso a la cuenta de administración de revendedor, a la fecha los proveedores de servicios de hosting utilizados por la empresa son:
+
+  * Hostgator.
+  * Amazon Web Services.
+  * ResellerClub.
+
+Creación de cuentas en hostgator:
+
+  - Ingresar a [[http://hersoncruz.com/cpanel|http://hersoncruz.com/cpanel]]
+  - En la sección AVANZADA, hacer client en la opción Web Host Manager.
+  - En la sección Funciones de la cuenta, hacer clic en Crear una nueva cuenta.
+  - Ingresar la siguiente información:
+      * Nombre de dominio.
+      * Usuario (el sistema sugerirá uno).
+      * Contraseña (y Volver a introducir la contraseña), se puede hacer uso del generador.
+      * Correo electrónico.
+      * Seleccionar el paquete contratado por el cliente.
+  - El resto de opciones pueden dejarse sin modificar.
+  - Hacer clic en el botón **Crear**.
+  - Fin.
+
+Creación de instancias en Amazon Web Services:
+
+  - Antes de crear una instancia se debe establecer lo siguiente:
+      * Requerimientos del cliente en cuanto a sistema operativo, espacio en disco, capacidad de CPU y Memoria RAM.
+      * Ingresar a [[https://www.amazon.com/ap/signin?openid.assoc_handle=aws&openid.return_to=https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn:aws:iam::015428540659:user/homepage&redirect_uri=https://console.aws.amazon.com/console/home?state=hashArgs#&isauthcode=true&noAuthCookie=true&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&action=&disableCorpSignUp=&clientContext=&marketPlaceId=&poolName=&authCookies=&pageId=aws.ssop&siteState=pre-register,es_ES&accountStatusPolicy=P1&sso=&openid.pape.preferred_auth_policies=MultifactorPhysical&openid.pape.max_auth_age=120&openid.ns.pape=http://specs.openid.net/extensions/pape/1.0&server=/ap/signin?ie=UTF8&accountPoolAlias=&forceMobileApp=0&language=es_ES&forceMobileLayout=0|AWS Console]]
+      * Hacer clic en opción **EC2**.
+      * Hacer clic en botón **Launch instance**.
+      * Seleccionar el tipo de instancia a crear, si se cuenta con una instancia propia pre-configurada para algún tipo de solución, estas aparecerán en la pestaña **My AMIs**  y hacer clic en el botón **Select**  correspondiente. Opcionalmente se pueden buscar AMIs de otros proveedores.
+      * En la siguiente página seleccionar el tipo de instancia a crear (esto dependerá de los requerimientos del cliente).
+      * El cualquier momento a partir de este paso se puede hacer clic en el botón **Review and Launch**  o seguir la secuencia de opciones para hacer modificaciones a la configuración por defecto.
+      * Estando en la opción **1. Review**, se puede verificar que toda la información esté correctamente ingresada.
+      * Hacer clic en el botón **Launch**  para crear la instancia.
+      * Fin.
+
+Crear cuentas en ResellerClub:
+
+Este servicio se ejecuta sobre el dominio [[http://multisistemas.co|http://multisistemas.co]] y ofrece multiples servicios a nuestros clientes:
+
+  * Registro de dominios.
+  * Alojamiento compartido.
+  * Servidores Privados Virtuales.
+  * Servidores Dedicados.
+  * Certificados SSL.
+  * Entre otros.
+
+Este es un servicio semi-automatizado, ya que cada vez que un cliente se registra y realiza una compra, es necesario verificar el pago para autorizar la creación del servicio contratado. Dicha verificación se realiza en [[https://manage.resellerclub.com/|https://manage.resellerclub.com/]]
+
+===== Anexo 2. Lineamientos para registro y renovación de dominios de internet =====
+
+Existen 3 proveedores de registro de dominios en Internet utilizado por Multisistemas:
+
+  - SVNET: Para dominios con terminación .SV.
+  - Namecheap: Para el resto de dominios (.COM, .NET, .ORG, etc.)
+  - ResellerClub: Para cliente que compran a través de multisistemas.co
+
+Para realizar el registro o renovación de un dominio, se debe contar con una orden de compra del cliente, datos importantes son:
+
+  * Nombre del dominio a registrar.
+  * Cantidad de años a registrar.
+
+Dependiendo de la terminación del dominio, la selección del proveedor es simple: si el dominio termina en .SV se deberá registrar en SVNET, si el dominio terminar en cualquier otro valor, se utilizará Namecheap.
+
+  - Ingresar a namechap.com.
+  - Buscar el nombre de dominio a registrar.
+  - El sitio mostrará la disponibilidad.
+  - Si el dominio se encuentra disponible agregarlo al carrito de compra, de lo contrario, notificar al cliente que el dominio solicitado no puede registrarse debido a disponibilidad.
+  - Hacer checkout y realizar el pago utilizando PayPal.
+  - Fin.
+
+Si el dominio es registrado por un cliente a través de multisistemas.co, el proceso de verificación es el siguiente:
+
+  - Iniciar sesión en PayPal para verificar el monto pagado por el cliente.
+  - Ingresar a ResellerClub para procesar la orden del cliente:
+      * Agregar el saldo pagado por el cliente a la orden e ingresar el número de transacción de paypal.
+      * Aplicar el pago a la orden.
+      * El sistema procesa automáticamente la creación de la orden en un tiempo aproximado de 5 a 10 minutos.
+      * Notificar al cliente que su orden ha sido procesada vía correo electrónico, llamada telefónica o mensaje de texto.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

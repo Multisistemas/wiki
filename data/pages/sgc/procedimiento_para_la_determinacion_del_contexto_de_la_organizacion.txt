@@ -1,0 +1,109 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Marvin Gallardo}} {{fields>ELABORADO_FECHA=2016.NOV.07}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.02}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2016.DIC.22}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRGE-01}} {{fields>TITULO=PROCEDIMIENTO PARA LA DETERMINACIÓN DEL CONTEXTO DE LA ORGANIZACIÓN}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1. OBJETIVO ======
+
+Definir la metodología para la identificación y determinación del contexto, tanto interno como externo de la organización, para lograr los resultados previstos del Sistema de Gestión de Calidad.
+
+====== 2. ALCANCE ======
+
+Aplica a todo el Sistema de Gestión de Calidad.
+
+====== 3. DEFINICIONES ======
+
+==== 3.1. Alta Dirección: ====
+
+Persona o grupo de personas que dirige y controla una organización al más alto nivel.
+
+==== 3.2. Organización: ====
+
+Persona o grupo de personas que tienen sus propias funciones con responsabilidad, autoridades y relaciones para lograr sus objetivos.
+
+==== 3.3. Contexto de la Organización: ====
+
+Combinación de cuestiones internas y externas que pueden tener un efecto en el enfoque de la organización para el desarrollo y logro de sus objetivos.
+
+==== 3.4. Sistema de Gestión de Calidad: ====
+
+Conjunto de elementos de una organización interrelacionados o que interactúan para establecer políticas, objetivos y procesos para lograr estos objetivos.
+
+====== 4. DESARROLLO ======
+
+{{  :sgc:prge-01.jpg?nolink&  }}
+
+====== 5. DOCUMENTOS DE REFERENCIA ======
+
+  * NTC – ISO 9001:2015, 4.1 Compresión de la Organización y su Contexto.
+
+====== 6. FORMULARIOS ======
+
+  * [[https://docs.google.com/spreadsheets/d/19e4b-UsDHMU8RfKmlpaMvNCGx04mC2kMAzH1QM8FXmo/edit#gid=944096839|RGGE-01 Matriz FODA]]
+  * [[https://docs.google.com/spreadsheets/d/14aIC3zXDXCWdcCy-RJ4Sc1nRW-7sbt1CKeLI_JRMfVU/edit#gid=121449431|RGGE-02 Determinación de la Planeación Estratégica]]
+
+====== 7. ANEXOS ======
+
+===== Anexo 1. Determinación y Evaluación de Factores Internos de la Organización. =====
+
+==== 1. Determinación de Factores Internos de la Organización. ====
+
+Para la determinación de los factores internos de la Organización, se utilizara el formulario [[https://docs.google.com/document/d/1a2NXc_EVcBkgC_8JFetKNyseKJ4jC63D1GQI9aK2Qgw/edit#heading=h.rzrd07jrb4mq|RGOP-07 Análisis de las Cuestiones Internas.]]
+
+==== 2. Evaluación de los Factores Internos de la Organización ====
+
+Para la evaluación de los factores internos, se deberá seguir la siguiente metodologia:
+
+1. Asignar un peso a cada factor o aspecto, el peso otorgado a cada factor, expresa la importancia relativa del mismo, y el total de todos los pesos en su conjunto debe tener la suma de 100.
+
+2. Asignar una calificación entre 0 y 3, en orden de importancia, donde el 0 es irrelevante y el 3 se evalúa como muy importante.
+
+3. Efectuar la multiplicación del peso de cada factor para su calificación correspondiente, para determinar una calificación ponderada de cada factor, ya sea fortaleza o debilidad.
+
+4. Sumar las calificaciones ponderadas de cada factor para determinar el total ponderado de la organización en su conjunto.
+
+===== Anexo 2. Determinación y Evaluación de Factores Externos de la Organización. =====
+
+==== 1. Determinación de los Factores Externos de la Organización. ====
+
+Para la determinación de los factores externos de la organización, se utilizara el formulario [[https://docs.google.com/document/d/1AmUfo4sbTZ0zxtshuD3pACD0kbJZpIisY4GtfwDG1Yw/edit|RGOP-06 Análisis de las Cuestiones Externas.]]
+
+==== 2. Evaluación de los Factores Externo de la Organización. ====
+
+Para la determinación de los factores externos, se llevará a cabo la siguiente metodología:
+
+1. Asignar un peso a cada factor, el peso manifiesta la importancia considerada relativa que tiene cada factor, evitando que las oportunidades deben tener más peso que las amenazas, siendo necesario establecer que la suma de todas las oportunidades y las amenazas deben sumar 100.
+
+2. Ponderar con una calificación de 0 a 3 para cada uno de los factores considerados determinantes para el éxito, con el propósito de evaluar si las estrategias actuales de la empresa son realmente eficaces, el 3 es una respuesta considerada superior, 2 es una respuesta superior a la media, 1 una respuesta de término medio y 0 una respuesta mala.
+
+3. Multiplicar el peso de cada factor por su calificación para obtener una calificación ponderada.
+
+4. Sumar las calificaciones ponderadas de cada una de las variables para determinar el total del ponderado de la organización en cuestión.
+
+===== Anexo 3. Evaluación del Perfil Competitivo. =====
+
+Para la evaluación del perfil competitivo, se realizará de la siguiente manera:
+
+1. Se consideran los mismos factores para compararlos con otras empresas competidoras que serán incluidas en la Matriz FODA.
+
+2. Se le asigna un peso a cada uno de estos factores.
+
+3. A cada una de las organizaciones enlistadas en la tabla se le asigna un calificación, y los valores de las calificaciones son las siguientes:
+
+  * 0= debilidad
+  * 1= menor debilidad
+  * 2= menor fuerza
+  * 3= mayor fuerza
+
+4. Se multiplica el peso de la segunda columna por cada una de las calificaciones de las organizaciones o empresas competidoras, obteniendo el peso ponderado correspondiente.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

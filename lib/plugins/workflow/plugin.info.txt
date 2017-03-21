@@ -1,0 +1,7 @@
+base   workflow
+author Ryan Boder
+email  ryan.boder@suretycam.com
+name   workflow plugin
+desc   Interactive Workflow Wizardry
+url    http://dokuwiki.org/plugin:workflow
+date   2014-01-05

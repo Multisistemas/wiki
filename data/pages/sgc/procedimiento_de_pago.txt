@@ -1,0 +1,80 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2016.NOV.07}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.06}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRAF-01}} {{fields>TITULO=PROCEDIMIENTO PARA PAGO}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Dar cumplimiento a los pagos de proveedores, con la finalidad de establecer controles y garantizando el pago de las obligaciones de Multisistemas.
+
+====== 2.ALCANCE ======
+
+Aplica a todos los pago que se realizan a proveedores.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Proveedor: ====
+
+Persona que se dedica a proveer productos o servicios solicitados por Multisistemas.
+
+==== 3.2 Quedan: ====
+
+Documento emitido por Multisistemas para programar fecha de pago a proveedor.
+
+==== 3.3 Crédito Fiscal: ====
+
+Es el monto que Multisistemas ha pagado en concepto de impuestos al adquirir un producto, insumo o servicio y que puede deducirlo ante el estado al momento de realizar una compra.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimiento_pago_ultimo.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+N/A
+
+====== 6.FORMULARIOS ======
+
+[[https://docs.google.com/spreadsheets/d/1zMGBBSL9EG-AcGasiNVj69jRI9Z9YaNptS7wZOUGeUM/edit#gid=0|FGAF-01 CALENDARIO]]
+
+[[https://drive.google.com/a/multisistemas.com.sv/file/d/0B77BeSsP4nfeTjltN2R3M3BIOFU/view?usp=sharing|FGAF-02 COMPROBANTE DE EGRESO]]
+
+====== 7.ANEXOS ======
+
+==== Anexo 1: Programación de pago ====
+
+Luego de emitir el quedan, se programa la fecha en que se le realizará el pago al proveedor o la fecha de vencimiento del pago del servicio.
+
+==== Anexo 2: Elaboración de cheque o transferencia ====
+
+Se elabora el cheque o transferencia 3 días antes del vencimiento del servicio o de la fecha programada del pago.
+
+Se elabora el cheque y junto con el comprobante de egreso [[https://drive.google.com/a/multisistemas.com.sv/file/d/0B77BeSsP4nfeTjltN2R3M3BIOFU/view?usp=sharing|RGAF-02]] que contiene la siguiente información:
+
+  * Fecha de la emisión del cheque o transferencia
+  * Nombre de proveedor
+  * Monto del cheque o transferencia
+  * Concepto del cheque o transferencia
+  * Firmas
+
+Y si es transferencia llenamos el comprobante de egreso y se ingresa a la plataforma del banco que corresponde pagar y se realizan los siguientes pasos:
+
+  * Módulo pagos
+  * Elegimos la cuenta a debitar
+  * Nombre del proveedor monto a acreditar
+  * Envío de transferencia para autorización de gerencia general
+
+==== Anexo 3: Revisión de pago de cargas sociales y retenciones ====
+
+Para los pagos de ISSS, AFP y ministerio de hacienda verificar al final del día si la gerencia aceptó la transferencia, si no realizarle un recordatorio mediante correo electrónico, llamada para que sea aceptada la transferencia.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

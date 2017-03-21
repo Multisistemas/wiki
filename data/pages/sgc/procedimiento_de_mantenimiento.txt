@@ -1,0 +1,65 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvranega}} {{fields>ELABORADO_FECHA=2016.NOV.07}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.13}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRAF-02}} {{fields>TITULO=PROCEDIMIENTO PARA MANTENIMIENTO}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Determinar la metodología para mantener en condiciones adecuadas las instalaciones y los equipos atendiendo en forma oportuna los requerimientos de las dependencias de Multisistemas.
+
+====== 2.ALCANCE ======
+
+Este procedimiento inicia con la identificación de necesidades de mantenimiento de instalaciones y equipos y finaliza con el seguimiento y control del servicio de mantenimiento contratado y con la presentación de informes.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Mantenimiento: ====
+
+Conservación de una cosa en buen estado o en una situación determinada para evitar su degradación
+
+==== 3.2 Solicitud de mantenimiento: ====
+
+Documento en el que se solicita formalmente en mantenimiento de la infraestructura o algún equipo de la oficina.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimiento_de_mantenimiento_ultimo.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+N/A
+
+====== 6.Formularios ======
+
+[[https://docs.google.com/spreadsheets/d/1zMGBBSL9EG-AcGasiNVj69jRI9Z9YaNptS7wZOUGeUM/edit#gid=0|RGAF-01 CALENDARIO MENSUAL]]
+
+[[https://docs.google.com/spreadsheets/d/13vBXJ4o_ZI2Ha1NCvRu09ApHlIn4j6lShsPno8ftJQk/edit#gid=0|RGAF-10 INFORME ANUAL DE MANTENIMIENTO]]
+
+====== 7.ANEXOS ======
+
+==== Anexo 1: Calendarización de Mantenimiento ====
+
+**1.1 Mantenimiento a Instalaciones (limpieza y aseo)**
+
+Ubicar en el calendario anual los días en que se le dará mantenimiento la limpieza:
+
+**Martes y Jueves:** Recolección de desechos (responsabilidad de cada empleado) y depositar en contenedor para el acabado final por parte de tren de aseo.
+
+**Lunes, Miércoles y Viernes:** Limpieza en cada puesto de trabajo por el empleado.
+
+**Martes y Viernes:**Personal externo de servicios varios realiza limpieza general en la organización.
+
+**1.2 Mantenimiento a Aire Acondicionados**
+
+* Gerencia: Junio y Diciembre * Sala de Reuniones: Agosto y Febrero
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

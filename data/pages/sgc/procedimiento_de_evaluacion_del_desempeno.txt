@@ -1,0 +1,68 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2016.DIC.14}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.14}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRDH-02}} {{fields>TITULO=PROCEDIMIENTO PARA LA EVALUACIÓN DEL DESEMPEÑO}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Evaluar y calificar el desempeño laboral de los empleados de Multisistemas.
+
+====== 2.ALCANCE ======
+
+Este procedimiento inicia con la concertación de los compromisos laborales y comportamentales entre evaluador y evaluado y culmina con la calificación definitiva en firme al término del período ordinario.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Planificación operativa: ====
+
+Es un instrumento indispensable de teorización y organización, en la cual se deben contemplar todos los detalles para la ejecución de acciones concretas; se debe planificar antes de actuar sobre una situación o problema para poder transformarla.
+
+==== 3.2 Evaluación de desempeño: ====
+
+Es un proceso sistemático y periódico que sirve para estimar cuantitativa y cualitativamente el grado de eficacia y eficiencia de las personas en el desempeño de sus puestos de trabajo, mostrándoles sus puntos fuertes y débiles con el fin de ayudarles a mejorar.
+
+==== 3.3 Evaluador: ====
+
+Persona de la empresa, encargado de adelantar las evaluaciones de desempeño .
+
+==== 3.4 Evaluado: ====
+
+Persona con vinculo laboral , la cual será cuantificada y cualificada por medio de la evaluación de desempeño.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimiento_de_evaluacion_de_desempeno_renombrar.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+[[https://mseicorp.com/wiki/doku.php/sgc:manual_de_funciones|MANUAL DE FUNCIONES]]
+
+====== 6.FORMULARIOS ======
+
+[[https://docs.google.com/spreadsheets/d/1hJtuVku6O65MQGLU8qjecQ9BIV0nxfuxz0woEL23Sr8/edit|RGDH-13 EVALUACIÓN DE DESEMPEÑO]]
+
+====== 7.ANEXOS ======
+
+===== Anexo 1: Competencias a evaluar =====
+
+  * Cantidad de trabajo
+  * Calidad de trabajo (Esmero)
+  * Conocimiento del trabajo
+  * Responsabilidad
+  * Actitud
+  * Toma de decisiones (Razonamiento)
+  * Innovación (Iniciativa)
+  * Supervisión (Liderazgo)
+  * Cumplimiento
+  * Ajuste, Acoplamiento, Ambientación
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR^REVISADO POR^AUTORIZADO POR|
+|{{fields>ELABORADO_POR}}|{{fields>REVISADO_POR}}|{{fields>AUTORIZADO_POR}}|
+|{{fields>ELABORADO_FECHA}}|{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

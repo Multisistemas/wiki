@@ -1,0 +1,69 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2017.FEB.22}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2017.FEB.23}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRDH-04}} {{fields>TITULO=PROCEDIMIENTO DE BAJA DE PERSONAL}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{:sgc:logomultisistemas.png?nolink&}}^{{fields>TITULO}}^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}|CÓDIGO: {{fields>CODIGO}}|VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Establecer las directrices a seguir cuando concluye laboral entre el empleado y Multisistemas.
+
+====== 2.ALCANCE ======
+
+Este procedimiento aplica para los empleados que presenten su renuncia o son dados de baja.
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Renuncia: ====
+
+Es una decisión mediante la cual uan persona se separa voluntariamente de su ámbito habitual de trabajo.
+
+==== 3.2 Liquidación: ====
+
+Documento que detalla el ultimo pago realizado a un empleado e incluye los cálculos de salario, vacaciones, aguinaldo e indemnización.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:4.4_procedimiento_baja_de_personal_1.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+====== 6.FORMULARIOS ======
+
+**[[https://docs.google.com/a/multisistemas.com.sv/forms/d/e/1FAIpQLScNOwGjWi0YcLG8Qb7rdY8keO3wovnbhFPUATKtCQc6Kb1CQw/viewform?c=0&w=1|FORMULARIO DE SERVICIO DE TECNOLOGÍA]]**
+
+**[[https://docs.google.com/document/d/1ItkM6IdWbBnyYMd7A1uls1XkXLDM5D9H9-Mlh4VQa64/edit|RGDH-15 CARTA DE LIQUIDACIÓN]]**
+
+====== 7.ANEXOS ======
+
+==== Anexo 1: Notificar renuncia a Jefe de Área ====
+
+Luego que el departamento de desarrollo humano recibe la carta de renuncia se envía un correo electrónico con la notificación de la baja de personal a Jefe de área, para obtener indicaciones si se publica la oferta en plataforma de computrabajo o alguien del personal interno ocupara el puesto vacante.
+
+==== Anexo 2: Solicitud de traspaso/desactivación de cuentas institucionales ====
+
+Se llena el formulario de soporte técnico para que el programador jr desactive el usuario de la persona que se da de baja o traspase las cuentas a la persona que se cubrirá el puesto de trabajo en las cuentas institucionales.
+
+  * **Correo (Google CLoud)**
+  * **ERP**
+  * **Wiki**
+  * **Intranet**
+  * **DMS**
+  * **Acceso a sitios de producción y/o desarrollo con proyectos de clientes**
+==== Anexo 3: Solicitud de liquidación de empleado ====
+
+Enviamos mediante correo electrónico al contador externo de Multisistemas los datos para que nos envíe el cálculo que corresponde en concepto de liquidación del empleado, cuando obtenemos ese cálculo procedemos a elaborar el cheque y solicitar firma de gerente general.
+
+==== Anexo 4. Archivar documentación ====
+
+Archivamos en el expediente del departamento de desarrollo humano la carta de renuncia, el cálculo de liquidación con sus respectivas firmas.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR^REVISADO POR^AUTORIZADO POR|
+|{{fields>ELABORADO_POR}}|{{fields>REVISADO_POR}}|{{fields>AUTORIZADO_POR}}|
+|{{fields>ELABORADO_FECHA}}|{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

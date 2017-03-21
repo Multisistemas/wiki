@@ -1,0 +1,138 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Katherine Alvarenga}} {{fields>ELABORADO_FECHA=2016.NOV.07}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2016.DIC.12}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PRAF-04 }} {{fields>TITULO=PROCEDIMIENTO PARA ELABORACIÓN DE PLANILLAS}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}  ^  {{fields>TITULO}}  ^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}  |CÓDIGO: {{fields>CODIGO}}  |VERSIÓN: {{fields>VERSION}}|
+
+====== 1.OBJETIVO ======
+
+Llevar control y generación de la liquidación del pago de salarios. Cumplir con las obligaciones de pagos a empleados permanentes y temporales contraídas por Multisistemas con base en la ley y en las deducciones autorizadas.
+
+====== 2.ALCANCE ======
+
+El proceso comienza cada vez que se inicia un período de pago con la elaboración de las planillas del personal (Salarios, Bonos y comisiones, ISSS y AFPs) y termina con el pago del salario al empleado y los pagos de cargas sociales (ISR, ISSS y AFPs) así como las deducciones autorizadas (Bancos y PGR).
+
+====== 3.DEFINICIONES ======
+
+==== 3.1 Salario: ====
+
+Sueldo es la palabra que designa a la remuneración que percibe de manera periódica un trabajador como consecuencia de la prestación de un servicio profesional o el desempeño de un cargo, puesto, en Multisistemas.
+
+==== 3.2 Carga Social: ====
+
+Beneficios de las Prestaciones Sociales y la Seguridad Social que consagra la Legislación Laboral.
+
+==== 3.3 Planilla: ====
+
+La Planilla de pago es aquella que presenta un listado de todos los trabajadores del mes, con los días en que trabajaron, la cantidad de mano de obra o unidades a pagar y su costo, cada uno de los descuentos y finalmente el total a pagar.
+
+====== 4.DESARROLLO ======
+
+{{  :sgc:procedimiento_elaboracion_de_planilla_ultimo.jpg?nolink&  }}
+
+====== 5.DOCUMENTOS DE REFERENCIA ======
+
+[[https://docs.google.com/document/d/1lYry-pEeW36HLDgQrBuIJVuLzaFG8B5RZKXZYA-4_zg/edit|Reglamento Interno de trabajo ]]
+
+====== 6.FORMULARIOS ======
+
+[[https://docs.google.com/spreadsheets/d/14zp637EMx8tnVlCIYMHLBkha-DMk5wOoptdsEgXF2KI/edit#gid=834783871|RGAF-03 PLANILLA DE SALARIOS]]
+
+[[https://docs.google.com/document/d/11sOEt02dAQw_alwnoDbd9mLbDS1bY-MmnVK2JuAu0Zw/edit|RGAF-04 BOLETAS DE PAGO]]
+
+[[https://docs.google.com/document/d/1m8Mxr1O0ZzGHtg7F0W0Kss4olxiUgttDRTlpLTynQis/edit|RGAF-05 BOLETAS DE BONOS]]
+
+RGAF-06 REGISTRO DE ASISTENCIA DE PERSONAL
+
+====== 7.ANEXOS ======
+
+==== Anexo 1: Elaboración de Planilla ====
+
+Las planillas de carga social y de Salarios se realizan en fechas diferentes:
+
+  * **Planilla de Carga Social:**  Es la planilla de pago correspondiente a entidades de pensión y servicio de salud (AFP, ISSS), y realiza en los primeros 5 días hábiles de cada mes y la planilla a realizar es del mes anterior. Ejemplo: la que realizamos el 5 de octubre es la del mes de septiembre.
+  * **La planilla Interna de Salarios:**  se realiza el 28 de cada mes y se revisa con el Gerente General el 29 de cada mes.
+**Elaboración de planilla de ISSS en plataforma OVISS**
+
+  * Ingresar al sitio: [[https://ovisss.isss.gob.sv/ofivi/web/index.jspx|https://ovisss.isss.gob.sv/ofivi/web/index.jspx]]
+  * Colocar Numero Patronal y Contraseña
+  * Luego click en planilla
+  * Elaborar Planilla
+  * En la casilla Centro de Trabajo colocar: Multisistemas e Inversiones S.A.DE.C.V.
+  * Generar planilla
+
+**Para editar información de Planillas del ISSS**
+
+  * Seleccionar el nombre de usuario a editar y darle click
+  * Opciones de Planillas
+  * Editar cotizante
+  * Guardar Cambios.
+  * click en Iniciar Recepción de Planilla
+  * Iniciar Recepción
+  * Aceptar
+  * Planillas
+  * Listado de Archivos Subidos
+  * Click en planilla acabada de crear
+  * Explorar Planillas de archivo
+  * Aprobar Planilla
+  * Aceptar
+
+**Elaboración de planilla de AFP en plataforma SEPP**
+
+  * Ingresar al sitio: [[https://www.planillaprev.sv/Auth/Login?ReturnUrl=%2f|https://www.planillaprev.sv/Auth/Login?ReturnUrl=%2f]]
+  * Gestión de planilla
+  * Realizar planilla como el mes anterior
+  * Arreglar datos de salarios
+  * Salvar cambios
+  * Validar planilla
+  * Calcular planilla
+  * Ingresamos a emcabezados de planilla
+  * Buscar planilla realizada
+  * Darle generar resguardo
+  * Enviar planilla
+
+==== Anexo 2: Ingreso a Carga Social ====
+
+La contraseña de las cargas sociales se debe solicitar al Gerente General para que brinde el acceso a ella.
+
+==== Anexo 3: Almacenamiento de Planilla ====
+
+Luego de descargar la planilla de carga social, en el Drive se busca las carpetas con el título “ISSS” y/o “AFP” y se realizan los siguiente pasos:
+
+**Almacenamiento de planilla ISSS**
+
+  * Imprimir recibo de pago
+  * Guardar en Carpeta de Drive ISSS Planillas 2016 (Tomando en cuenta que es el año del cual se están realizando la planillas)
+  * Click Derecho en Crear Carpeta
+  * Nombre de la carpeta poner mes
+  * Al archivo ponerle "Recibo de pago".
+  * Imprimir Planilla
+  * Colocar en el nombre el mes correspondiente y el año a planilla
+  * Guardarla en la carpeta del mes correspondiente.
+
+**Almacenamiento de planilla de AFP**
+
+  * Ingresar en generar informes
+  * Resuemen de planilla
+  * Planilla detalle
+  * Documento para pagar
+
+==== Anexo 4: Calculo de Planilla ====
+
+Para realizar la planilla se necesita saber los días laborados de cada empleado, para poder realizarlo, se hace de la siguiente manera:
+
+Revisamos el Registro de Asistencia de Personal RGAF-06 Calculamos el monto a pagar según los días laborados del empleado: (Salario/30 días * días laborados= Salario)
+
+==== Anexo 5: Recepción de Boleta de Pago ====
+
+Luego que el Gerente General nos confirma que la transferencia fue aceptada, o nos firma los cheques, la Asistente Administrativa se encarga de recolectar la firma de cada empleado, en el registro [[https://docs.google.com/a/multisistemas.com.sv/document/d/11sOEt02dAQw_alwnoDbd9mLbDS1bY-MmnVK2JuAu0Zw/edit?usp=sharing|RGAF-04]] ó [[https://docs.google.com/a/multisistemas.com.sv/document/d/1m8Mxr1O0ZzGHtg7F0W0Kss4olxiUgttDRTlpLTynQis/edit?usp=sharing|RGAF-05]] que son los comprobantes de pago de salarios y bonos.
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR  ^REVISADO POR  ^AUTORIZADO POR  |
+|{{fields>ELABORADO_POR}}  |{{fields>REVISADO_POR}}  |{{fields>AUTORIZADO_POR}}  |
+|{{fields>ELABORADO_FECHA}}  |{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+

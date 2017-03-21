@@ -1,0 +1,98 @@
+/*########## INCIA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/ {{fields>VERSION=0}} {{fields>ELABORADO_POR=Marvin Gallardo}} {{fields>ELABORADO_FECHA=2017.ENE.10}} {{fields>REVISADO_POR=Sandra Torres}} {{fields>REVISADO_FECHA=2017.ENE.13}} {{fields>AUTORIZADO_POR=Herson Cruz}} {{fields>AUTORIZADO_FECHA=2017.MAR.03}} {{fields>FECHA VALIDEZ=@VERR@}} {{fields>CODIGO=PROP-07}} {{fields>TITULO=PROCEDIMIENTO PARA LA PRESTACIÓN DE SERVICIOS DE INSPECCIÓN DE SEGURIDAD Y SALUD OCUPACIONAL}} /*########## FINALIZA SECCIÓN DE CAMPOS PARA EL DOCUMENTO ##########*/
+
+|< 100% 33% 33% 33% >|
+
+^{{  :sgc:logomultisistemas.png?nolink&  }}^{{fields>TITULO}}^|
+|FECHA VIGENCIA: {{fields>AUTORIZADO_FECHA}}|CÓDIGO: {{fields>CODIGO}}|VERSIÓN: {{fields>VERSION}}|
+
+====== 1. OBJETIVO ======
+
+Establecer la metodología para la inspección y revisión de los aspectos de Seguridad y Salud Ocupacional por parte de Multisistemas.
+
+====== 2. ALCANCE ======
+
+Este procedimiento es de aplicación para todos los servicios prestados de inspección de Seguridad y Salud Ocupacional de las condiciones de todos los procesos y actividades por parte del cliente.
+
+====== 3. DEFINICIONES ======
+
+==== 3.1 Lugar de Trabajo: ====
+
+Cualquier espacio físico en el que se realizan actividades relacionadas con el trabajo, bajo el control de la organización.
+
+==== 3.2 Inspección de Seguridad y Salud: ====
+
+Consiste en la realización de un análisis que se realiza observando directamente y de forma ordenada, las instalaciones, procesos, máquinas, equipos, etc., para evaluar los riesgos que puedan afectar a la seguridad de los trabajadores.
+
+==== 3.3 Peligro: ====
+
+Es toda fuente o situación con capacidad de daño en términos de lesiones, daños a la propiedad, daños al ambiente, o bien una combinación de ambos.
+
+==== 3.4 Riesgo: ====
+
+Es la combinación de la frecuencia, probabilidad y de las consecuencias que pueden derivarse de la materialización de un peligro.
+
+==== 3.5 Riesgo laboral: ====
+
+Es la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo. Para calificar un riesgo desde el punto de vista de su gravedad, se valorarán conjuntamente la probabilidad de que se produzca el daño y la severidad del mismo.
+
+====== 4. DESARROLLO ======
+
+<font 11.0pt/11;;inherit;;inherit>A continuación se detallan la descripción de actividades del procedimiento para la prestación de servicios de inspección de Seguridad y Salud Ocupacional:</font>
+
+{{  :sgc:prop-07_4.1.jpg?nolink&  }}{{  :sgc:prop-07_4.2.jpg?nolink&  }}{{  :sgc:prop-07_4.3.jpg?nolink&  }}
+
+====== 5. DOCUMENTOS DE REFERENCIA ======
+
+  * <font 11.0pt/11;;inherit;;inherit>ISO 9001:2015: Requisitos de un Sistema de Gestión de Calidad 8.1, 8.5, 8.6, 8.7.</font>
+  * <font 11.0pt/11;;inherit;;inherit>OHSAS 18001:2007: Requisitos de un Sistema de Gestión de Seguridad y Salud Ocupacional.</font>
+  * <font 11.0pt/11;;inherit;;inherit>NTC 4114: Realización de Inspecciones de Seguridad y Salud Ocupacional.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Decreto 254: Ley General de Prevención de Riesgos en los Lugares de Trabajo.</font>
+
+====== 6. FORMULARIOS ======
+
+  * [[https://docs.google.com/spreadsheets/d/1XcDkIW8OyPPBdWCfkmLcY_yEEcExR3pRN2SwsXQTUd4/edit#gid=314255750|RGOP-25: Programa de inspecciones.]]
+  * [[https://docs.google.com/document/d/1YwVcomdgd3_59ClLLe6HqN6SCfYdPCRI8Gk2Z5RUyFQ/edit|RGOP-26: Lista de verificación de inspección general.]]
+  * [[https://docs.google.com/document/d/1SBIR1BpEbRewyM9MKwjdHs3HLljUafRjCKpXtQlF5ug/edit|RGOP-27: Lista de verificación de extintores.]]
+  * [[https://docs.google.com/document/d/1gIiNjzos65L6OHTCNOv22L640fttJ1UZrQpKbF7qF9Q/edit|RGOP-28: Lista de verificación de equipo de protección personal.]]
+  * [[https://docs.google.com/document/d/1RhMelrAwhtXlcfeCRu2eIqsO8yFPtiCSIEr5Td7y0Ig/edit|RGOP-29: Lista de verificación de trabajos en condiciones especiales.]]
+  * [[https://docs.google.com/document/d/1qUUakcD2CnYB6k7NMeTTarO7nkaXbkYTc8XRHmwvig4/edit|INOP-02: Informe de inspección de seguridad y salud ocupacional.]]
+
+====== 7. ANEXOS ======
+
+===== Anexo 1. Recomendaciones para la Realización de la Inspección de Seguridad y Salud Ocupacional. =====
+
+<font 11.0pt/11;;inherit;;inherit>Los siguientes pasos deben tenerse en cuenta antes, durante y después de una inspección de Seguridad y Salud Ocupacional:</font>
+
+**<font 11.0pt/11;;inherit;;inherit>Antes de la Inspección:</font>**
+  * <font 11.0pt/11;;inherit;;inherit>Tener un enfoque positivo. El Inspector debe prepararse mentalmente para buscar no sólo lo que esté mal, sino también lo que esté bien. El elogio al trabajo bien realizado, puede conducir a que se siga haciendo de esta forma de manera permanente.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Planificar la inspección. Revisar el Programa de Inspecciones y destinar el tiempo, recursos que sea necesario y los lugares donde se realizara la Inspección.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Saber qué se va a Inspeccionar:</font> * <font 14.6667px/inherit;;inherit;;inherit>Instalaciones locativas.</font>* Instalaciones eléctricas.
+      * Maquinaria.
+      * Almacenamiento.
+      * Señalización de seguridad.
+      * Equipos de emergencia.
+      * Equipos contra incendio.
+      * Ergonomía.
+  * <font 11.0pt/11;;inherit;;inherit>Proveerse de los elementos necesarios:</font> * <font 11.0pt/11;;inherit;;inherit>Papelería para tomar apuntes (lista de verificación)</font> * <font 11.0pt/11;;inherit;;inherit>Ropa y elementos de protección personal apropiados al área a inspeccionar.</font> * <font 11.0pt/11;;inherit;;inherit>Instrumentos de medición apropiados (metro, sonómetro, luxómetro, etc).</font> * <font 11.0pt/11;;inherit;;inherit>Linterna, cámara fotográfica, y otros elementos que sean necesarios.</font>
+
+**<font 11.0pt/11;;inherit;;inherit>Durante la Inspección:</font>**
+  * <font 11.0pt/11;;inherit;;inherit>Utilizar la lista de verificación adecuada para el área, equipo o instalación a inspeccionar. Utilizar un mapa, plano o diagrama, si es necesario.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Anotar toda condición de riesgo o peligro identificado. Cuando se puedan hacer mediciones, deben consignarse los resultados de acuerdo con las normas vigentes en Seguridad y Salud Ocupacional.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Buscar las cosas que no sea posible identificar a primera vista. Examinar compartimientos cerrados, pedir a los operadores que pongan en funcionamiento la máquina que no esté en uso (pero en condiciones operables), etc.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Clasificar el riesgo asociado con la condición identificada.</font>
+
+**<font 11.0pt/11;;inherit;;inherit>Después de la Inspección:</font>**
+  * <font 11.0pt/11;;inherit;;inherit>Elaborar los informes a la mayor brevedad posible.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Estimar la gravedad potencial de los riesgos detectados.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Evaluar la probabilidad de ocurrencia de los riesgos detectados.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Ponderar las alternativas de control.</font>
+  * <font 11.0pt/11;;inherit;;inherit>Priorizar las acciones correctivas.</font>
+
+|< 100% 33% 33% 33% >|
+
+^ELABORADO POR^REVISADO POR^AUTORIZADO POR|
+|{{fields>ELABORADO_POR}}|{{fields>REVISADO_POR}}|{{fields>AUTORIZADO_POR}}|
+|{{fields>ELABORADO_FECHA}}|{{fields>REVISADO_FECHA}}|{{fields>AUTORIZADO_FECHA}}|
+
+\\
+
