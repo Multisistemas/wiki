@@ -8,6 +8,7 @@
 #
 # login:passwordhash:Real Name:email:groups,comma,seperated
 
+lmedrano:$1$GVE3YMIi$4HVdtWLWCqXzodEsIX/Tj.:Luis Medrano:lmedrano@multisistemas.com.sv:admin,user
 
 herson:$1$H6c1Dnqz$v89yXEFrRAvZao80nxLyk0:Herson Cruz:herson@gmail.com:admin,user
 google116840200092498261197:$1$VXPURoBl$mwtV1LAR22VIylkkTvPP3/:Alejandro Echeverria:aecheverria@multisistemas.com.sv:user
