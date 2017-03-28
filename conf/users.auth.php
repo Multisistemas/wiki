@@ -7,6 +7,7 @@
 # Format:
 #
 # login:passwordhash:Real Name:email:groups,comma,seperated
+#
 
 lmedrano:$1$GVE3YMIi$4HVdtWLWCqXzodEsIX/Tj.:Luis Medrano:lmedrano@multisistemas.com.sv:admin,user
 
