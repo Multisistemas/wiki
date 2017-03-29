@@ -107,7 +107,7 @@ class action_plugin_publish_banner extends DokuWiki_Action_Plugin {
 		        break;
 		    default: // Draft
 		        $this->showLatestDraftIfNewer();
-                $this->showLatestApprovedVersion();
+                $this->showPreviousApproved();
 		        $this->showDraft();
 		        $this->showReviewAction();
 		        break;
