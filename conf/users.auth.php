@@ -20,5 +20,5 @@ google113545133862862146880:$1$5PcpT3sY$NpCBdsgPSuEIYMwLcI5lK/:Stefani Reyes:sre
 google100386631292889504688:$1$ImWZ0oOY$zFE3bmwv8CKRhJROQNWmK.:Herson Cruz:herson@multisistemas.com.sv:admin,user
 google110737517890949701275:$1$sSvqSX8s$wyjRaVkwuf9R49VosRdZN/:Katherine Alvarenga:kalvarenga@multisistemas.com.sv:user
 google108486582154571123015:$1$AX0mfLKD$etScfAdOT3fHkWeCZSEhd.:Marvin Gallardo:mgallardo@multisistemas.com.sv:admin,user
-google108558672892631932685:$1$J4fj43Sr$6VLZD95ZaovL0MZ61bX931:Luis Medrano:lmedrano@multisistemas.com.sv:admin,user
+google108558672892631932685:$1$J4fj43Sr$6VLZD95ZaovL0MZ61bX931:Luis Medrano:lmedrano@multisistemas.com.sv
 google107538990533006388009:$1$FllwOQOs$JFDKTejh2n6GhB.oKZCr1.:Morena Gutierrez:mgutierrez@multisistemas.com.sv:user
